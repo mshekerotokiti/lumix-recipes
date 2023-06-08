@@ -1,7 +1,5 @@
 puts "🌱 Seeding spices..."
 
-puts "🌱 Seeding spices..."
-
 Recipe.create([
         {
           name: "Apple Frangipan Tart",
@@ -428,7 +426,5 @@ CartItem.create([
         }
 ])
 
-
-puts "✅ Done seeding!"
 
 puts "✅ Done seeding!"
