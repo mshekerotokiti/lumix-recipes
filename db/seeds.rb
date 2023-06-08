@@ -1,6 +1,7 @@
 puts "🌱 Seeding spices..."
 
 Recipe.create([
+ 
         {
           name: "Apple Frangipan Tart",
           category: "Dessert",
@@ -20,11 +21,31 @@ Recipe.create([
           favorite: false
         },
         {
-          name: "Apam balik",
-          category: "Dessert",
+          name: "Chicken Handi",
+          category: "Chiken",
           cuisine: "Malaysian",
-          instruction: "Mix milk, oil and egg together. Sift flour, baking powder and salt into the mixture. Stir well until all ingredients are combined evenly.\n\nSpread some batter onto the pan. Spread a thin layer of batter to the side of the pan. Cover the pan for 30-60 seconds until small air bubbles appear.\n\nAdd butter, cream corn, crushed peanuts and sugar onto the pancake. Fold the pancake into half once the bottom surface is browned.\n\nCut into wedges and best eaten when it is warm.",
-          image: "https://www.themealdb.com/images/media/meals/adxcbq1619787919.jpg",
+          instruction: "Take a large pot or wok, big enough to cook all the chicken, and heat the oil in it.
+          Once the oil is hot, add sliced onion and fry them until deep golden brown.
+          Then take them out on a plate and set aside.
+          To the same pot, add the chopped garlic and sauté for a minute.
+          Then add the chopped tomatoes and cook until tomatoes turn soft.
+          This would take about 5 minutes.
+          Then return the fried onion to the pot and stir.
+          Add ginger paste and sauté well.
+          Now add the cumin seeds, half of the coriander seeds and chopped green chillies.
+          Give them a quick stir.
+          Next goes in the spices – turmeric powder and red chilli powder.
+          Sauté the spices well for couple of minutes.
+          Add the chicken pieces to the wok, season it with salt to taste and cook the chicken covered on medium-low heat until the chicken is almost cooked through.
+          This would take about 15 minutes.
+          Slowly sautéing the chicken will enhance the flavor, so do not expedite this step by putting it on high heat.
+          When the oil separates from the spices, add the beaten yogurt keeping the heat on lowest so that the yogurt doesn’t split.
+          Sprinkle the remaining coriander seeds and add half of the dried fenugreek leaves.
+          Mix well.
+          Finally add the cream and give a final mix to combine everything well.
+          Sprinkle the remaining kasuri methi and garam masala and serve the chicken handi hot with naan or rotis.
+          Enjoy!",
+          image: "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
           video: "https://www.youtube.com/watch?v=6R8ffRRJcrg",
           favorite: false
         },
@@ -45,7 +66,41 @@ Recipe.create([
           image: "https://www.themealdb.com/images/media/meals/wyrqqq1468233628.jpg",
           video: "https://www.youtube.com/watch?v=1ahpSTf_Pvk",
           favorite: false
-        }
+        },
+
+        {name: "Beef Caldereta",
+        category:"Beef",
+        cuisine: "British",
+        instruction:"0.
+                Heat oil in a cooking pot.
+                Saute onion and garlic until onion softens 1.
+                Add beef.
+                Saute until the outer part turns light brown.
+                2.
+                Add soy sauce.
+                Pour tomato sauce and water.
+                Let boil.
+                3.
+                Add Knorr Beef Cube.
+                Cover the pressure cooker.
+                Cook for 30 minutes.
+                4.
+                Pan-fry carrot and potato until it browns.
+                Set aside.
+                5.
+                Add chili pepper, liver spread and peanut butter.
+                Stir.
+                6.
+                Add bell peppers, fried potato and carrot.
+                Cover the pot.
+                Continue cooking for 5 to 7 minutes.
+                7.
+                Season with salt and ground black pepper.
+                Serve.",
+                image:"https://www.themealdb.com/images/media/meals/41cxjh1683207682.jpg",
+                favorite: true
+      
+                },
 ])
 
 Ingredient.create([
