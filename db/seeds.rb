@@ -106,6 +106,183 @@ Recipe.create([
                 favorite: true
       
                 },
+                {
+                name: "Corba",
+                category:"Starter",
+                cuisine: "Indian",
+                instruction:"Pick through your lentils for any foreign debris, rinse them 2 or 3 times, drain, and set aside.
+                Fair warning, this will probably turn your lentils into a solid block that you’ll have to break up later In a large pot over medium-high heat, sauté the olive oil and the onion with a pinch of salt for about 3 minutes, then add the carrots and cook for another 3 minutes.
+                Add the tomato paste and stir it around for around 1 minute.
+                Now add the cumin, paprika, mint, thyme, black pepper, and red pepper as quickly as you can and stir for 10 seconds to bloom the spices.
+                Congratulate yourself on how amazing your house now smells.
+                Immediately add the lentils, water, broth, and salt.
+                Bring the soup to a (gentle) boil.
+                After it has come to a boil, reduce heat to medium-low, cover the pot halfway, and cook for 15-20 minutes or until the lentils have fallen apart and the carrots are completely cooked.
+                After the soup has cooked and the lentils are tender, blend the soup either in a blender or simply use a hand blender to reach the consistency you desire.
+                Taste for seasoning and add more salt if necessary.
+                Serve with crushed-up crackers, torn up bread, or something else to add some extra thickness.
+                You could also use a traditional thickener (like cornstarch or flour), but I prefer to add crackers for some texture and saltiness.
+                Makes great leftovers, stays good in the fridge for about a week.",
+                image:"https://www.themealdb.com/images/media/meals/58oia61564916529.jpg",
+                favorite: false
+      
+                },
+              {
+                name:"Jerk chicken with rice & peas",
+                category:"Chicken",
+                cuisine:"Jamaican",
+                instruction:"To make the jerk marinade, combine all the ingredients in a food processor along with 1 tsp salt, and blend to a purée.
+                If you’re having trouble getting it to blend, just keep turning off the blender, stirring the mixture, and trying again.
+                Eventually it will start to blend up – don’t be tempted to add water, as you want a thick paste.
+                Taste the jerk mixture for seasoning – it should taste pretty salty, but not unpleasantly, puckering salty.
+                You can now throw in more chillies if it’s not spicy enough for you.
+                If it tastes too salty and sour, try adding in a bit more brown sugar until the mixture tastes well balanced.
+                Make a few slashes in the chicken thighs and pour the marinade over the meat, rubbing it into all the crevices.
+                Cover and leave to marinate overnight in the fridge.
+                If you want to barbecue your chicken, get the coals burning 1 hr or so before you’re ready to cook.
+                Authentic jerked meats are not exactly grilled as we think of grilling, but sort of smoke-grilled.
+                To get a more authentic jerk experience, add some wood chips to your barbecue, and cook your chicken over slow, indirect heat for 30 mins.
+                To cook in the oven, heat to 180C/160C fan/gas 4.
+                Put the chicken pieces in a roasting tin with the lime halves and cook for 45 mins until tender and cooked through.
+                While the chicken is cooking, prepare the rice & peas.
+                Rinse the rice in plenty of cold water, then tip it into a large saucepan with all the remaining ingredients except the kidney beans.
+                Season with salt, add 300ml cold water and set over a high heat.
+                Once the rice begins to boil, turn it down to a medium heat, cover and cook for 10 mins.
+                Add the beans to the rice, then cover with a lid.
+                Leave off the heat for 5 mins until all the liquid is absorbed.
+                Squeeze the roasted lime over the chicken and serve with the rice & peas, and some hot sauce if you like it really spicy.",
+                image:"https://www.themealdb.com/images/media/meals/tytyxu1515363282.jpg",
+                favorite:true,
+              },
+               {
+                name:"Pork Chops with Roasted Sweet Potatoes",
+                category:"Pork",
+                cuisine:"American",
+                instruction:"Serves 2 1.
+                  Adjust racks to top and middle positions and preheat oven to 450 degrees.
+                  Wash and dry all produce.
+                  Dice sweet potatoes into 1/2-inch pieces.
+                  Toss on a baking sheet with a drizzle of oil, salt, and pepper.
+                  Roast on top rack for 12 minutes (we'll roast the zucchini then).
+                  2.
+                  Meanwhile, halve and core apple; thinly slice into half-moons.
+                  Peel and finely chop garlic.
+                  Quarter lemon.
+                  Trim and halve zucchini lengthwise; cut crosswise into 1/2-inch-thick half-moons.
+                  Toss on a second baking sheet with a drizzle of oil and a pinch of salt and pepper.
+                  Set aside.
+                  3.
+                  Pat pork dry with paper towels and season all over with salt and pepper.
+                  Heat a drizzle of oil in a large pan over medium-high heat.
+                  Add pork and cook until browned and cooked through, 4-5 minutes per side.
+                  Turn off heat; transfer to a plate.
+                  4.
+                  Once sweet potatoes have roasted 12 minutes, transfer baking sheet with zucchini to middle rack and continue roasting until both veggies are browned and softened, 12-15 minutes more.
+                  5.
+                  Meanwhile, melt 1 TBSP butter (2 TBSP for 4 servings) in pan used for pork over medium-high heat.
+                  Add apple and season with salt and pepper.
+                  Cook, scraping up any browned bits from bottom of pan, until apple is slightly softened, 2-3 minutes.
+                  Add garlic; cook until fragrant, 30 seconds.
+                  Add 1/z cup water (3/4 cup for 4), stock concentrate, and 11/2 tsp sugar (3 tsp for 4).
+                  Cook, stirring, until sauce has thickened and apple is very tender, 3-5 minutes.
+                  Season with salt and pepper.
+                  6.
+                  Remove pan with apple from heat; stir in 1 TBSP butter (2 TBSP for 4 servings) and a squeeze of lemon juice.
+                  Divide pork, zucchini, and sweet potatoes between plates.
+                  Top pork with glazed apple sauce.
+                  Top zucchini with a squeeze of lemon juice.",
+                image:"https://www.themealdb.com/images/media/meals/h3ijwo1581013377.jpg",
+                favorite:false,
+              },
+               {
+                name:"Jamaican Beef Patties",
+                category:"Beef",
+                cuisine:"Jamaican",
+                instruction:"Make the Pastry Dough To a large bowl, add flour, 1 teaspoon salt, and turmeric and mix thoroughly.
+                Rub shortening into flour until there are small pieces of shortening completely covered with flour.
+                Pour in 1/2 cup of the ice water and mix with your hands to bring the dough together.
+                Keep adding ice water 2 to 3 tablespoons at a time until the mixture forms a dough.
+                At this stage, you can cut the dough into 2 large pieces, wrap in plastic and refrigerate for 30 minutes before using it.
+                Alternatively, cut the dough into 10 to 12 equal pieces, place on a platter or baking sheet, cover securely with plastic wrap and let chill for 30 minutes while you make the filling.",
+                image:"https://www.themealdb.com/images/media/meals/wsqqsw1515364068.jpg",
+                favorite:false,
+              },
+               {
+                name:"Fruit and Cream Cheese",
+                category:"Breakfast",
+                cuisine:"American",
+                instruction:"Preheat oven to 400ºF (200ºC), and prepare two cookie sheets with parchment paper.
+                In a bowl, mix cream cheese, sugar, and vanilla until fully combined.
+                Lightly flour the surface and roll out puff pastry on top to flatten.
+                Cut each sheet of puff pastry into 9 equal squares.
+                On the top right and bottom left of the pastry, cut an L shape approximately ½ inch (1 cm) from the edge.
+                NOTE: This L shape should reach all the way down and across the square, however both L shapes should not meet at the ends.
+                Your pastry should look like a picture frame with two corners still intact.
+                Take the upper right corner and fold down towards the inner bottom corner.
+                You will now have a diamond shape.
+                Place 1 to 2 teaspoons of the cream cheese filling in the middle, then place berries on top.
+                Repeat with the remaining pastry squares and place them onto the parchment covered baking sheet.
+                Bake for 15-20 minutes or until pastry is golden brown and puffed.
+                Enjoy!",
+                image:"https://www.themealdb.com/images/media/meals/1543774956.jpg",
+                favorite:true,
+              },
+               {
+                name:"Breakfast Potatoes",
+                category:"Breakfast",
+                cuisine:"Canadian",
+                instruction:"Before you do anything, freeze your bacon slices that way when you're ready to prep, it'll be so much easier to chop! Wash the potatoes and cut medium dice into square pieces.
+                  To prevent any browning, place the already cut potatoes in a bowl filled with water.
+                  In the meantime, heat 1-2 tablespoons of oil in a large skillet over medium-high heat.
+                  Tilt the skillet so the oil spreads evenly.
+                  Once the oil is hot, drain the potatoes and add to the skillet.
+                  Season with salt, pepper, and Old Bay as needed.
+                  Cook for 10 minutes, stirring the potatoes often, until brown.
+                  If needed, add a tablespoon more of oil.
+                  Chop up the bacon and add to the potatoes.
+                  The bacon will start to render and the fat will begin to further cook the potatoes.
+                  Toss it up a bit! The bacon will take 5-6 minutes to crisp.
+                  Once the bacon is cooked, reduce the heat to medium-low, add the minced garlic and toss.
+                  Season once more.
+                  Add dried or fresh parsley.
+                  Control heat as needed.
+                  Let the garlic cook until fragrant, about one minute.
+                  Just before serving, drizzle over the maple syrup and toss.
+                  Let that cook another minute, giving the potatoes a caramelized effect.
+                  Serve in a warm bowl with a sunny side up egg!",
+                image:"https://www.themealdb.com/images/media/meals/1550441882.jpg",
+                favorite:false,
+              },
+               {
+                name:"Montreal Smoked Meat",
+                category:"Beef",
+                cuisine:"Canadian",
+                instruction:"Place roasting pan over two burners on stovetop and fill with 1-inch of water.
+                  Bring water to a boil over high heat, reduce heat to medium, cover roasting pan with aluminum foil, and steam brisket until an instant read thermometer registers 180 degrees when inserted into thickest part of the meat, 1 to 2 hours, adding more hot water as needed.
+                  Transfer brisket to cutting board and let cool slightly.
+                  Slice and serve, preferably on rye with mustard.",
+                image:"https://www.themealdb.com/images/media/meals/uttupv1511815050.jpg",
+                favorite:false,
+              },
+               {
+                name:"Mediterranean Pasta Salad",
+                category:"Pasta",
+                cuisine:"Mediterranean",
+                instruction:"Bring a large saucepan of salted water to the boil Add the pasta, stir once and cook for about 10 minutes or as directed on the packet.
+                Meanwhile, wash the tomatoes and cut into quarters.
+                Slice the olives.
+                Wash the basil.
+                Put the tomatoes into a salad bowl and tear the basil leaves over them.
+                Add a tablespoon of olive oil and mix.
+                When the pasta is ready, drain into a colander and run cold water over it to cool it quickly.
+                Toss the pasta into the salad bowl with the tomatoes and basil.
+                Add the sliced olives, drained mozzarella balls, and chunks of tuna.
+                Mix well and let the salad rest for at least half an hour to allow the flavours to mingle.
+                Sprinkle the pasta with a generous grind of black pepper and drizzle with the remaining olive oil just before serving.
+                ",
+                image:"https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
+                favorite:false,
+              }
 ])
 
 Ingredient.create([
