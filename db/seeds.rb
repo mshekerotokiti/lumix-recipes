@@ -1,4 +1,9 @@
-puts "🌱 Seeding spices..."
+puts "Destroying old data"
+Recipe.destroy_all
+Ingredient.destroy_all
+CartItem.destroy_all
+
+puts "🌱 Seeding new data..."
 
 Recipe.create([
  
@@ -22,7 +27,7 @@ Recipe.create([
         },
         {
           name: "Chicken Handi",
-          category: "Chiken",
+          category: "Chicken",
           cuisine: "Malaysian",
           instruction: "Take a large pot or wok, big enough to cook all the chicken, and heat the oil in it.
           Once the oil is hot, add sliced onion and fry them until deep golden brown.
