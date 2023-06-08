@@ -6,14 +6,11 @@ class CartItem < ActiveRecord::Base
         self.all.map do |c|
         c.ingredient
         end
-end
-
+    end
 
     def self.display_recipes
         self.all.map do |c|
         c.recipe
         end
     end
-
-
 end

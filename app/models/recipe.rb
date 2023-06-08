@@ -2,10 +2,6 @@ class Recipe < ActiveRecord::Base
     has_many :ingredients
     has_many :cart_items
     # has_many :ingredients, through: :cart_items
-
-
-
-
     def self.post_ingredients(id)
         self.find(id).ingredients.map do |t|
             CartItem.create(
